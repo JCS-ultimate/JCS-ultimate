@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JCS-ultimate
-- 👀 I’m interested in ... Software engineering,  digitisation of everyday,  electronics  etc
+- 👀 I’m interested in ... Software engineering,  digitisation of everyday life,  electronics  etc
 - 🌱 I’m currently learning ... JAVAFX, ADVANCED ARDUINO  AND RASPBERRY 
 - 💞️ I’m looking to collaborate on ...
 - 📫 email: eliseejethro@gmail.com, tel:  +237 674500901
